@@ -13,6 +13,10 @@ Je mène un projet interactif du cadrage à la livraison : prototypes VR et réa
 - Visite VR immobilière livrée en 48 h, signature sur plan confirmée après la démo
 - 100+ écrans Figma livrés pour une application domotique
 
+## Outil open source
+
+**[SW Multi Export](https://github.com/rmdevdesign/SWExporter)** : add-in SolidWorks qui exporte pièces et assemblages en **GLB, glTF 2.0 et FBX** en une action, avec matériaux, textures et réduction du nombre de triangles (retriangulation des zones planes ou décimation QEM réglable). Le pont direct entre la CAO et le temps réel (Unity, Three.js), avec installateur Windows. C#, .NET Framework 4.8, SharpGLTF, Assimp.
+
 ## Démos en ligne
 
 | Projet | Ce que c'est | Stack |
